@@ -7,7 +7,7 @@ class Agtop < Formula
   # The committed values here are kept in sync so a `brew install` against
   # this file directly also succeeds.
   url "https://github.com/mbrassey/agtop/archive/refs/tags/v2.4.8.tar.gz"
-  sha256 "e452024aac77208313f3828bf709cb8cc1be1eae6005b49c4d3fa180672ac345"
+  sha256 "5675fcf4fbf991199724d9176e5d36ee226c95892c85c21fe7875978de943aa5"
   license "MIT"
   head "https://github.com/mbrassey/agtop.git", branch: "main"
 
