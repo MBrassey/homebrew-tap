@@ -6,8 +6,8 @@ class Agtop < Formula
   # mirror is what `brew install mbrassey/tap/agtop` actually consumes.
   # The committed values here are kept in sync so a `brew install` against
   # this file directly also succeeds.
-  url "https://github.com/mbrassey/agtop/archive/refs/tags/v2.4.19.tar.gz"
-  sha256 "f170231a19736cdf1ff63c7932db475bb2206f93c6c5e745454ea10cbfd2871c"
+  url "https://github.com/mbrassey/agtop/archive/refs/tags/v2.4.20.tar.gz"
+  sha256 "e0055f1c76dbc5d9516eb18beb3a005058117851c54f4b734efda4492aa6f32d"
   license "MIT"
   head "https://github.com/mbrassey/agtop.git", branch: "main"
 
